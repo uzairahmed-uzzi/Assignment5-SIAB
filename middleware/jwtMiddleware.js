@@ -1,6 +1,6 @@
 const jwt = require ('jsonwebtoken')
 
-const secretKey = "Z@in"
+const secretKey = "Uzzi@123"
 
 const jwtAuthorization = {
     sign(payload){
